@@ -3,5 +3,5 @@ Resources:
     Type: AWS::EC2::Instance
     Properties: 
       ImageId: "ami-09d95fab7fff3776c"
-      KeyName: "jenkins"
-      #AvailabilityZone: "us-east-1a"
+      #KeyName: "jenkins"
+      AvailabilityZone: "us-east-1a"
