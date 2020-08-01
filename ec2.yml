@@ -3,5 +3,5 @@ Resources:
     Type: AWS::EC2::Instance
     Properties: 
       ImageId: "ami-07d9160fa81ccffb5"
-      KeyName: "sesireland"
+      #KeyName: "sesireland"
       
